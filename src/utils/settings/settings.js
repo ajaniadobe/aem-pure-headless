@@ -85,7 +85,7 @@ const Settings = () => {
         handleError(error);
       });
 
-    const url = '/content/experience-fragments/wknd-site/language-masters/en/site/footer/master.content.html?wcmmode=disabled';
+    const url = '/content/experience-fragments/wknd-adventures/language-masters/en/site/footer/master.content.html?wcmmode=disabled';
 
 
     const headers = new Headers({
